@@ -1,0 +1,1 @@
+Serves as a locally based alternative to the growing trend of password storing services. Utilizes Java and NetBeans IDE to create an interactive GUI solving the problem of data compromising. At the click of a button, Selenium logs into the given webpage automatically, using specific data elements and a secure authentication process.
