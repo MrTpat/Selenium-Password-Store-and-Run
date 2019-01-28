@@ -1,1 +1,11 @@
-Serves as a locally based alternative to the growing trend of password storing services. Utilizes Java and NetBeans IDE to create an interactive GUI solving the problem of data compromising. At the click of a button, Selenium logs into the given webpage automatically, using specific data elements and a secure authentication process.
+# Selenium Password Automation
+
+This is a proof of concept Java application that utilizes Selenium to allow for one-click logins to websites directly from the desktop
+The application utilizes the following technologies:
+  - Object serialization
+  - Selenium Web Driver
+  - Password Generation
+
+# Be aware!
+
+  - The app is not meant for commerical use. It is simply a convinient personal tool as of right now.
