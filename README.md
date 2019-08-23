@@ -5,6 +5,10 @@ The application utilizes the following technologies:
   - Object serialization
   - Selenium Web Driver
   - Password Generation
+  - Java
+  - JavaFX
+
+## Watch the video demo [here](https://streamable.com/9vjek)
 
 # Be aware!
 
